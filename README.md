@@ -5,7 +5,9 @@ The tool should be packaged into a jar to be run, or run the Importer.java file 
 
 This import tool requires the Server API license for SOAtest/Virtualize to be active, and the SOAtest/Virtualize server must be running.
 
-==========
+
+======
+
 To import Postman services with this tool, simply run the jar
 with the filepath to the export to your collection as an argument.
 
@@ -24,8 +26,7 @@ Additional Options:
 -v: Enables verbose mode
 
 Example: java -jar PostmanImporter.jar -v myCollection.json
-==========
 
-
+======
 
 Credit and documentation for JsonPath implementation goes to https://github.com/json-path/JsonPath
