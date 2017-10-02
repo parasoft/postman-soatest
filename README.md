@@ -1,6 +1,6 @@
 # Postman to SOAtest conversion tool
 
-The tool should be packaged into a jar to be run, or run the Importer.java file directly through eclipse. The PostmanImporter folder cacn be imported directly into Eclipse as a java project.
+The tool should be packaged into a jar to be run, or run the Importer.java file directly through eclipse. The PostmanImporter folder can be imported directly into Eclipse as a java project.
 
 
 This import tool requires the Server API license for SOAtest/Virtualize to be active, and the SOAtest/Virtualize server must be running.
