@@ -55,6 +55,7 @@ Notes:
 
 - If required inputs are missing, conversion stops with a clear error.
 - If the requested output name already exists, the converter automatically makes the name unique by appending a suffix.
+- Refresh the Test Case Explorer to see the converted SOAtest .tst files if you do conversion while SOAtest desktop is open.
 
 ## Skills Overview
 
