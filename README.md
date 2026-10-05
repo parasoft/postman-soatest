@@ -32,7 +32,7 @@ Copy the `skills` folder into an appropriate location where your AI client disco
 
 ## Running the Converter
 
-Ask your AI agent to use the `postman-to-soatest` skill and provide all required inputs:
+First export the collections you wish to convert and their associated environments (if needed) from Postman. Then ask your AI agent to use the `postman-to-soatest` skill and provide all required inputs:
 
 - Postman Collection path
 - Postman Environment path (only when required by the collection)
